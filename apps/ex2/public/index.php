@@ -6,9 +6,11 @@
     <title>PHP Fundamentals</title>
     <?php include_once("../includes/styles.php")?>
 </head>
+
 <body>
-    <h1>Intor to PHP</h1>
-    <div><a href="strings.php">Strings</a></div>
-    <div><a href="dates.php">Dates</a></div>
+    <h1>Intro to PHP</h1>
+    <div><a href="example1.php">ex1</a></div>
+    <div><a href="example2.php">ex2</a></div>
+    <div><a href="example3.php">ex3</a></div>
 </body>
 </html>
